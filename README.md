@@ -126,3 +126,4 @@ Password: test1234
 - View invoices
 - Click to view invoice details
 - Logout securely
+- Node Project
